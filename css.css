@@ -1,0 +1,23 @@
+.body{
+    background-color: cornsilk;
+    position: center;
+    margin-left: 50px;
+}
+h1{
+    font-family:  'Dancing Script', cursive;
+    font-size: 50px;
+    color: black;
+}
+
+h2{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+h3{
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    color: aqua;
+}
+
